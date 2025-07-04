@@ -22,8 +22,8 @@ A sleek, modern clone of Netflix’s user interface built using **SwiftUI** and 
 - **Framework:** SwiftUI
 - **IDE:** Xcode
 - **Packages:**
-  - [SwiftfulUI](https://github.com/nickchapsas/SwiftfulUI)
-  - [SwiftfulRouting](https://github.com/nickchapsas/SwiftfulRouting)
+  - [SwiftfulUI]([https://github.com/nickchapsas/SwiftfulUI](https://github.com/SwiftfulThinking/SwiftfulUI.git))
+  - [SwiftfulRouting]([https://github.com/nickchapsas/SwiftfulRouting](https://github.com/SwiftfulThinking/SwiftfulRouting.git))
 
 ---
 
