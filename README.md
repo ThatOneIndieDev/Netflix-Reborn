@@ -9,8 +9,8 @@ A sleek, modern clone of Netflix’s user interface built using **SwiftUI** and 
 - 🎬 Home screen with horizontal carousels for movie sections
 - 🔄 Smooth view animations using SwiftUI
 - 🌙 Custom dark-mode inspired interface
-- 🧭 Modular navigation using [SwiftfulRouting](https://github.com/nickchapsas/SwiftfulRouting)
-- 🧱 Component-driven UI using [SwiftfulUI](https://github.com/nickchapsas/SwiftfulUI)
+- 🧭 Modular navigation using [SwiftfulRouting]([https://github.com/nickchapsas/SwiftfulRouting](https://github.com/SwiftfulThinking/SwiftfulRouting.git))
+- 🧱 Component-driven UI using [SwiftfulUI]([https://github.com/nickchapsas/SwiftfulUI](https://github.com/SwiftfulThinking/SwiftfulUI.git))
 - ⚙️ Scalable file architecture for future extensions
 - 💡 Designed with reusability and simplicity in mind
 
